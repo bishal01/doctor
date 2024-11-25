@@ -1,0 +1,397 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\caregiver.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\caregiver.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\caregiver.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\caregiver.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|c:\\users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\appointment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\appointment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\appointment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\appointment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\viewcaregiver.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\viewcaregiver.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\viewcaregiver.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\viewcaregiver.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\view_patient.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\view_patient.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\add_patient.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\add_patient.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\remove.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\remove.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\remove.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\remove.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\view_patient.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\view_patient.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\add_patient.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\add_patient.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07768BB3-9B53-4EF3-B1A0-626F59DB5EDA}|doctor_project\\doctor_project.csproj|solutionrelative:doctor_project\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appointment.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\appointment.aspx.cs",
+              "RelativeDocumentMoniker": "doctor_project\\appointment.aspx.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\appointment.aspx.cs",
+              "RelativeToolTip": "doctor_project\\appointment.aspx.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:00:06.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "caregiver.aspx",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\caregiver.aspx",
+              "RelativeDocumentMoniker": "doctor_project\\caregiver.aspx",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\caregiver.aspx",
+              "RelativeToolTip": "doctor_project\\caregiver.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-24T08:57:47.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "remove.aspx",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\remove.aspx",
+              "RelativeDocumentMoniker": "doctor_project\\remove.aspx",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\remove.aspx",
+              "RelativeToolTip": "doctor_project\\remove.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-24T04:35:17.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "remove.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\remove.aspx.cs",
+              "RelativeDocumentMoniker": "doctor_project\\remove.aspx.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\remove.aspx.cs",
+              "RelativeToolTip": "doctor_project\\remove.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:49:32.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "home.aspx",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\home.aspx",
+              "RelativeDocumentMoniker": "doctor_project\\home.aspx",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\home.aspx",
+              "RelativeToolTip": "doctor_project\\home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-22T05:30:28.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\home.aspx.cs",
+              "RelativeDocumentMoniker": "doctor_project\\home.aspx.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\home.aspx.cs",
+              "RelativeToolTip": "doctor_project\\home.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T08:01:36.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "caregiver.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\caregiver.aspx.cs",
+              "RelativeDocumentMoniker": "doctor_project\\caregiver.aspx.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\caregiver.aspx.cs",
+              "RelativeToolTip": "doctor_project\\caregiver.aspx.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAHIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:59:05.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "viewcaregiver.aspx",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\viewcaregiver.aspx",
+              "RelativeDocumentMoniker": "doctor_project\\viewcaregiver.aspx",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\viewcaregiver.aspx",
+              "RelativeToolTip": "doctor_project\\viewcaregiver.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-24T09:10:53.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "viewcaregiver.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\viewcaregiver.aspx.cs",
+              "RelativeDocumentMoniker": "doctor_project\\viewcaregiver.aspx.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\viewcaregiver.aspx.cs",
+              "RelativeToolTip": "doctor_project\\viewcaregiver.aspx.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:11:37.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appointment.aspx",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\appointment.aspx",
+              "RelativeDocumentMoniker": "doctor_project\\appointment.aspx",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\appointment.aspx",
+              "RelativeToolTip": "doctor_project\\appointment.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-24T14:42:24.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "view_patient.aspx",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\view_patient.aspx",
+              "RelativeDocumentMoniker": "doctor_project\\view_patient.aspx",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\view_patient.aspx",
+              "RelativeToolTip": "doctor_project\\view_patient.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-24T03:15:27.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "add_patient.aspx",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\add_patient.aspx",
+              "RelativeDocumentMoniker": "doctor_project\\add_patient.aspx",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\add_patient.aspx",
+              "RelativeToolTip": "doctor_project\\add_patient.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-24T02:29:50.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\Global.asax.cs",
+              "RelativeDocumentMoniker": "doctor_project\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\Global.asax.cs",
+              "RelativeToolTip": "doctor_project\\Global.asax.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:43:34.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\Web.config",
+              "RelativeDocumentMoniker": "doctor_project\\Web.config",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\Web.config",
+              "RelativeToolTip": "doctor_project\\Web.config",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-22T02:30:17.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ViewSwitcher.ascx",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\ViewSwitcher.ascx",
+              "RelativeDocumentMoniker": "doctor_project\\ViewSwitcher.ascx",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\ViewSwitcher.ascx",
+              "RelativeToolTip": "doctor_project\\ViewSwitcher.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-11-24T06:08:49.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\Default.aspx",
+              "RelativeDocumentMoniker": "doctor_project\\Default.aspx",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\Default.aspx",
+              "RelativeToolTip": "doctor_project\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-22T02:54:42.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "view_patient.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\view_patient.aspx.cs",
+              "RelativeDocumentMoniker": "doctor_project\\view_patient.aspx.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\view_patient.aspx.cs",
+              "RelativeToolTip": "doctor_project\\view_patient.aspx.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAwE4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:27:13.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "add_patient.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\add_patient.aspx.cs",
+              "RelativeDocumentMoniker": "doctor_project\\add_patient.aspx.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\add_patient.aspx.cs",
+              "RelativeToolTip": "doctor_project\\add_patient.aspx.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwF0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T02:29:56.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\Site.Master",
+              "RelativeDocumentMoniker": "doctor_project\\Site.Master",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\Site.Master",
+              "RelativeToolTip": "doctor_project\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-22T02:54:09.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "doctor_project\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\Default.aspx.cs",
+              "RelativeToolTip": "doctor_project\\Default.aspx.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwE8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:53:09.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Default.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\Default.aspx.designer.cs",
+              "RelativeDocumentMoniker": "doctor_project\\Default.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\Default.aspx.designer.cs",
+              "RelativeToolTip": "doctor_project\\Default.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:59:47.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\login.aspx",
+              "RelativeDocumentMoniker": "doctor_project\\login.aspx",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\login.aspx*",
+              "RelativeToolTip": "doctor_project\\login.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-22T04:48:44.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\login.aspx.cs",
+              "RelativeDocumentMoniker": "doctor_project\\login.aspx.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\doctor_project\\doctor_project\\login.aspx.cs",
+              "RelativeToolTip": "doctor_project\\login.aspx.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:03:49.511Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
